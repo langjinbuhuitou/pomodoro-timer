@@ -49,11 +49,11 @@
 
 ### 方式二：Releases 下载
 
-前往 [Releases 页面](https://github.com/langjinbuhuitou/pomodoro-timer/releases) 下载最新版本的 `app-release.apk`，在手机上安装即可。
+前往 [Releases 页面](https://github.com/langjinbuhuitou/pomodoro-timer/releases) 下载最新版本的 `pomodoro-release.apk`，在手机上安装即可。
 
 最新版本：**v1.0.0**
 
-👉 [点击下载 app-release.apk](https://github.com/langjinbuhuitou/pomodoro-timer/releases/download/v1.0.0/app-release.apk)
+👉 [点击下载 pomodoro-release.apk](https://github.com/langjinbuhuitou/pomodoro-timer/releases/download/v1.0.0/pomodoro-release.apk)
 
 ### 安装说明
 1. 下载 APK 后，在手机文件管理器中点击安装
